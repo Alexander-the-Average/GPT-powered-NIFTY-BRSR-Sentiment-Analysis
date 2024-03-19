@@ -1,0 +1,57 @@
+{
+    "Company": {
+        "Name": "Reliance Industries Limited (RIL)",
+        "Headquarters": "Mumbai, Maharashtra, India",
+        "Address": "3rd Floor, Maker Chambers IV, 222, Nariman Point, Mumbai 400021, Maharashtra, India",
+        "HoldingAndAssociateCompanies": [],
+        "NatureOfBusiness": "Diverse, including petrochemicals, refining, retail, telecommunications, and more"
+    },
+    "ProductsAndServices": {
+        "Products": [
+            "Chemicals",
+            "Petroleum products",
+            "Polymers",
+            "Telecommunications services"
+        ],
+        "SustainableProducts": "Algal biomass-based protein products"
+    },
+    "Employees": {
+        "WorkforceSize": "Significant",
+        "DiversityInitiatives": "Yes",
+        "EmployeeProductivityData": {},
+        "PermanentVsContractual": {}
+    },
+    "Operations": {
+        "Locations": ["India", "Malaysia"],
+        "MarketsServed": ["Domestic", "International"],
+        "ExportPercentage": ""
+    },
+    "CSRDetails": {
+        "Initiatives": ["Education", "Healthcare", "Sustainability"],
+        "SpecificPrograms": ["Mission Annaseva", "Reliance Nutrition Gardens"]
+    },
+    "TransparencyAndDisclosure": {
+        "ReportingFrameworks": ["GRI Standards", "NVG-SEE"],
+        "GrievanceRedressalMechanism": {},
+        "SustainabilityComplaints": []
+    },
+    "MaterialResponsibleBusinessConductIssues": {
+        "ClimateChangeMitigation": "Yes",
+        "EnergyEfficiency": "Yes",
+        "WaterAndEffluentManagement": "Sustainable practices"
+    },
+    "ManagementDisclosures": "Integrating the principles of the NGRBC into the business fabric...",
+    "ProcessDisclosures": "",
+    "Principle-wiseDisclosures": {
+        "PRINCIPLE1": "Businesses should conduct and govern themselves with integrity, and in a manner that is ethical, transparent, and accountable.",
+        "PRINCIPLE2": "Businesses should provide goods and services in a manner that is sustainable and safe",
+        "PRINCIPLE3": "Businesses should respect and promote the wellbeing of all employees...",
+        "PRINCIPLE4": "Businesses should respect the interests of and be responsive to all its stakeholders...",
+        "PRINCIPLE5": "Businesses should respect and promote human rights...",
+        "PRINCIPLE6": "Businesses should respect and make efforts to protect and restore the environment...",
+        "PRINCIPLE7": "Businesses, when engaging in influencing public and regulatory policy, should do so in a manner that is responsible and transparent...",
+        "PRINCIPLE8": "Businesses should promote inclusive growth and equitable development...",
+        "PRINCIPLE9": "Businesses should engage with and provide value to their consumers in a responsible manner...",
+        "AdherenceToPrinciples": {}
+    }
+}
